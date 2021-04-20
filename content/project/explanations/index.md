@@ -3,12 +3,12 @@
 date = 2021-04-20
 
 # Project title.
-title = "Measuring government-opposition cooperation in parliament"
+title = "Explanations of Government-Opposition Relations"
 
 authors=["rick"]
 
 # Project summary to display on homepage.
-summary = "The first sub-project focuses on the measurement of government-opposition cooperation in parliament."
+summary = "This sub-project explains the level of government-opposition distincitveness in parliament."
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
@@ -33,17 +33,5 @@ fractions = false
 
   
 +++
-The first sub-project focuses on the measurement of government-opposition cooperation in parliament. It combines and improves existing measures of cooperation, related to four different aspects of parliamentary behaviour:
-
-- Voting: to what extent do opposition parties vote with the government? (Hix and Noury 2016; Louwerse et al. 2017; Loxbo and Sjölin 2017)
-- Cosponsorship: to what extent do government and opposition work together in tabling bills, amendments and resolutions? (Louwerse and Otjes 2015; Metz and Jäckle 2016)
-- Questions: who do MPs ask questions to? (Otjes and Louwerse 2018)
-- Speech: who do MPs interrupt in parliamentary debates and who do MPs mention positively and negatively in debates? (Haselmayer and Jenny 2016)
-
-These types of measures are, due to their nature, affected by context. All parliaments vote, for example, but use different procedures on how to vote, when to vote and what exactly to vote on. This can affect absolute levels of cooperation between government and opposition parties. Therefore this project focuses on comparing the level of cooperation within countries, relating to patterns of cooperation over time and across elections, parties, and issues. If I find similar patterns in these diverse cases, this provides a strong case for generalization.
-
-To establish patterns of cooperation over time, government-opposition cooperation and competition will be measured at the aggregate level, i.e. the level of cooperation per country-year (Van Aelst and Louwerse 2014). As patterns of cooperation are also expected to differ based on party and issue characteristics, I will use disaggregated measures of parliamentary cooperation, i.e. whether an opposition party voted for a specific government bill (De Giorgi and Marangoni 2015) or how many questions each party asks to each minister (Otjes and Louwerse 2018).
-
-The data required are official parliamentary documents, which are digitally available for the selected countries. Recent data (1995-now) is mostly ready for analysis, while older data will require extensive pre-processing. The analysis of the textual data features both innovative structural and substantial text analysis (Grimmer and Stewart 2013).
-As this subproject combines and enhances existing measures of government-opposition cooperation used in the literature, it is guaranteed to deliver the measures of government-opposition cooperation required for project 2 and 3. 
+This sub-project explains the level of government-opposition distinctiveness in parliament. It employes a multi-method design. In the quantitative part the distinctiveness measures from project 1 are connected to hypothesized explanation of government-opposition distinctiveness. In order to better understand the causal mechanisms, the quantitative analyses will be complemented by elite interviews with (former) party politicians in the four country cases. These interviews will focus on MPs’ parliamentary behaviour, with particular emphasis on government-opposition relations, over the last 20 years. Interviewees will be asked to discuss a number of recent examples of (non-)cooperation between government and opposition. 
 
