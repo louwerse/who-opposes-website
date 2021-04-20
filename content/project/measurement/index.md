@@ -5,7 +5,7 @@ date = 2021-04-20
 # Project title.
 title = "Measuring government-opposition cooperation in parliament"
 
-authors="tom"
+authors=["tom"]
 
 # Project summary to display on homepage.
 summary = "The first sub-project focuses on the measurement of government-opposition cooperation in parliament."
