@@ -6,7 +6,7 @@ title: Rick van Well
 superuser: true
 
 # Role/position
-role: PhD student
+role: PhD Candidate
 
 # Organizations/Affiliations
 organizations:
@@ -14,24 +14,23 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: PhD Candidate in Political Science at Leiden University
 
+# Interests to show in About widget
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Parliamentary Politics
+- Executive-Legislative Relations
+- Political Parties
+- Local Politics
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: MSc in Political Science and Public Administration (research)
+    institution: Leiden University
+    year: 2018
+  - course: BSc in Political Science
+    institution: Leiden University
+    year: 2016
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -40,16 +39,11 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '/#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
+  link: 'mailto:r.l.van.well@fsw.leidenuniv.nl'  # For a direct email link, use "mailto:test@example.org".
+- icon: linkedin
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-- icon: github
-  icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://www.linkedin.com/in/rickvanwell/
+
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -66,9 +60,8 @@ highlight_name: false
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
 - Researchers
-- Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Rick van Well is a PhD candidate at Leiden University, the Netherlands. He is writing a doctoral dissertation on explanations of government-opposition relations in parliament. Van Well's research interests are parliamentary politics, executive-legislative relations and political parties in established parliamentary democracies. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Previously Van Well was a junior lecturer in political science at Leiden University and a researcher at [ProDemos – House for Democracy and the Rule of Law](https://prodemos.nl/). He completed a Bachelor in Political Science (2016) and a Research Master in Political Science and Public Administration (2018) at Leiden University. His thesis on executive-legislative relations in Dutch municipalities was awarded with the [Research Master Thesis Award](https://www.universiteitleiden.nl/en/news/2018/11/rick-van-well-wins-thesis-prize-2018-research-master-political-science-and-public-administration) and the [Jan Brouwerscriptieprijs Maatschappijwetenschappen](https://www.universiteitleiden.nl/nieuws/2019/04/rick-van-well-wint-jan-brouwer-scriptieprijs-2019).
