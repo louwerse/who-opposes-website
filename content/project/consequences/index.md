@@ -23,9 +23,6 @@ fractions = false
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your project's folder. 
-
-<img src = <a id='L3zdsoroSYBgY3gU8HlTOw' class='gie-single' href='http://www.gettyimages.co.uk/detail/653504708' target='_blank' style='color:#a7a7a7;text-decoration:none;font-weight:normal !important;border:none;display:inline-block;'>Embed from Getty Images</a><script>window.gie=window.gie||function(c){(gie.q=gie.q||[]).push(c)};gie(function(){gie.widgets.load({id:'L3zdsoroSYBgY3gU8HlTOw',sig:'R6-q5nKwE_3Rkf7EICWGyGIZFWhfqeg5eHLfLhQMsSo=',w:'594px',h:'383px',items:'653504708',caption: false ,tld:'co.uk',is360: false })});</script><script src='//embed-cdn.gettyimages.com/widgets.js' charset='utf-8' async></script>>
-
 [image]
   # Caption (optional)
   caption = "Image: Second Chamber Elections in Netherlands"
