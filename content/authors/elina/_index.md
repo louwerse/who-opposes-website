@@ -18,10 +18,9 @@ bio: PhD Candidate in Political Science at Leiden University
 
 
 interests:
-- Experimental Political Research
-- Comparative Politics 
+- Experimental Political Research 
 - Voting Behaviour
-- Political Communication and Psychology 
+- Political Psychology 
 
 education:
   courses:
@@ -66,6 +65,6 @@ user_groups:
 - Researchers
 ---
 
-I am a PhD candidate at [Leiden University](https://www.universiteitleiden.nl/en/staffmembers/elina-zorina), the Netherlands. My research focuses on impact of parliamentary parties’ distinctiveness on democratic legitimacy and vote choice. I analyze consequences of government-opposition cooperation on the electorates in established parliamentary democracies—the Netherlands, the United Kingdom, Denmark and Canada.
+Elina Zorina is a PhD candidate at [Leiden University](https://www.universiteitleiden.nl/en/staffmembers/elina-zorina), the Netherlands. Her research focuses on impact of parliamentary parties’ distinctiveness on democratic legitimacy and vote choice. She analyzes consequences of government-opposition cooperation on the electorates in established parliamentary democracies—the Netherlands, the United Kingdom, Denmark and Canada.
 
-I hold a BA in Liberal Arts and Sciences with a major in International Relations, Political Science and Human Rights from St. Petersburg State University and Bard College, and a two-year MA in Political Science from Central European University. 
+Elina holds a BA in Liberal Arts and Sciences with a major in International Relations, Political Science and Human Rights from St. Petersburg State University and Bard College, and a two-year MA in Political Science from Central European University. 
