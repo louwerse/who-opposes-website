@@ -3,12 +3,12 @@
 date = 2021-04-20
 
 # Project title.
-title = "Explaining Government-Opposition Relations"
+title = "Explaining Government-Opposition Distinctiveness"
 
 authors=["rick"]
 
 # Project summary to display on homepage.
-summary = "This sub-project explains the level of government-opposition distinctiveness in parliament."
+summary = "This sub-project focuses on explanations of government-opposition distinctiveness in parliament."
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
@@ -33,5 +33,5 @@ fractions = false
 
   
 +++
-This sub-project explains the level of government-opposition distinctiveness in parliament. It employs a multi-method design. In the quantitative part the distinctiveness measures from project 1 are connected to hypothesized explanations of government-opposition distinctiveness. In order to better understand the causal mechanisms, the quantitative analyses will be complemented by elite interviews with (former) party politicians in the four country cases. These interviews will focus on MPs’ parliamentary behaviour, with particular emphasis on government-opposition relations, over the last 20 years. Interviewees will be asked to discuss a number of recent examples of (non-)cooperation between government and opposition. 
+This sub-project explains the level of government-opposition distinctiveness in parliament. It employs a mixed method design. In the quantitative part the distinctiveness measures from project 1 are connected to hypothesized explanations of government-opposition distinctiveness. In order to better understand the causal mechanisms, the quantitative analyses will be complemented by elite interviews with (former) party politicians in the four country cases. These interviews will focus on MPs’ parliamentary behaviour, with particular emphasis on government-opposition relations. Respondents will be asked to discuss a number of recent examples of (non-)cooperation between government and opposition. 
 
