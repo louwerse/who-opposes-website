@@ -14,7 +14,7 @@ url_pdf = ""
 url_slides = ""
 url_video = ""
 projects = ["consequences"]
-links = ""
+links = [""]
 publication_types = ["2"]
 
 +++
