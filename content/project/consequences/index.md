@@ -3,7 +3,7 @@
 date = 2021-04-20
 
 # Project title.
-title = "Distinctiveness in Parliamentary Arena: Consequences for Democratic Legitimacy and Vote Choice"
+title = "Distinctiveness in the Parliamentary Arena: Consequences for Democratic Legitimacy and Vote Choice"
 
 authors=["elina"]
 

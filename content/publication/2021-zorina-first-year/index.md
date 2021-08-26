@@ -4,8 +4,8 @@ abstract = "This extended research proposal was presented at Politicologenetmaal
 authors = ["elina"]
 date = "2021-05-28"
 math = false
-publication = "Extended Research Proposal (conference paper)"
-title = "Distinctiveness in Parliamentary Arena: Consequences for Democratic Legitimacy and Vote Choice"
+publication = "Paper presented at The online 2021 Politicologenetmaal (Annual Political Science Workshops of the Low Countries), Radboud University Nijmegen, the Netherlands, June 2021."
+title = "Distinctiveness in the Parliamentary Arena: Consequences for Democratic Legitimacy and Vote Choice"
 selected=true
 doi = ""
 url_code = ""
@@ -14,5 +14,5 @@ url_pdf = ""
 url_slides = ""
 url_video = ""
 projects = ["consequences"]
-publication_types = ["2"]
+publication_types = ["1"]
 +++
