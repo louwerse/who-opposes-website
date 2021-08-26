@@ -53,4 +53,4 @@ hero_media = "icon.png"
 
 **Causes and consequences of government-opposition cooperation and distinctiveness in parliament**
 
-Our NWO-Vidi project team measures and explain government-opposition cooperation and studies its consequences for democratic legitimacy and vote choice.
+Our NWO-Vidi project team measures and explains government-opposition cooperation and studies its consequences for democratic legitimacy and vote choice.
