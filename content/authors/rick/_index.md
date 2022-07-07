@@ -40,9 +40,15 @@ social:
 - icon: envelope
   icon_pack: fas
   link: 'mailto:r.l.van.well@fsw.leidenuniv.nl'  # For a direct email link, use "mailto:test@example.org".
+- icon: twitter
+  icon_pack: fab
+  link: https://twitter.com/RickvWell
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/rickvanwell/
+- icon: orcid
+  icon_pack: ai
+  link: https://orcid.org/0000-0003-4131-2724
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
