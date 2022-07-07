@@ -31,4 +31,7 @@ projects: ["explanations"]
 
 Every year, the Royal Netherlands Academy of Arts and Sciences appoints a select number of PhD students as 'face of science'. From the Institute of Political Science of Leiden University, doctoral candidate Rick van Well starts work as 'science ambassador'. He has a great task: involve young people in the work of Dutch universities.
 
-[Read more in Dutch on the Leiden University website](https://www.universiteitleiden.nl/nieuws/2022/06/rick-van-well-gaat-aan-de-slag-als-face-of-science)
+Read more in Dutch on the [website of Faces of Science](https://www.nemokennislink.nl/facesofscience/wetenschappers/rick-van-well/) and on the [Leiden University website](https://www.universiteitleiden.nl/nieuws/2022/06/rick-van-well-gaat-aan-de-slag-als-face-of-science)
+
+{{< vimeo 726079988 >}}
+
